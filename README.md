@@ -124,8 +124,8 @@
     <p>🥊 Muay Thai</p>
 
     <h2>Kontakt</h2>
-    <p>📧 Email: info@dobarjedol.com</p>
-    <p>📞 Telefon: +385 91 123 4567</p>
+    <p>📧 Email: info@dobarjedol.com (fake)</p>
+    <p>📞 Telefon: +385 00 000 0000</p>
 
     <div class="btn-container">
         <button class="btn" onclick="prikaziPoruku('pridruzi')">Pridruži nam se</button>
